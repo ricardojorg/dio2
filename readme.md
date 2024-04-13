@@ -37,4 +37,5 @@ O Tema do site é uma Clínica Odontológica, chamada ClinicaSOS, utilizando um 
 #### Mission:
 Building a full site with lessons that have been learned, when I created a website using links to other pages, images, forms, tables, embed localization of Google Maps among others.
 I used link to css file, for optimization the appearance and layout of objects, this resource isn't explained in classes.
+
 The site theme is a Dental Clinic, called ClinicaSOS, using a little fun creativity on texts.
